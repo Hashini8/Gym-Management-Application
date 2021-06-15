@@ -1,0 +1,50 @@
+
+member's id 1
+Member Name 1
+members NiC number1
+members birth day 1
+membership price1
+membership starting date1
+
+member's id 2 
+Member Name 2 
+members NiC number2 
+members birth day 2 
+membership price2 
+membership starting date2
+
+member's id 3
+Member Name 3
+members NiC number3
+members birth day 3
+membership price3
+membership starting date3
+
+member's id 5 
+Member Name Hashini 
+members NiC number120033265 
+members birth day 02.03.2000 
+membership price500 
+membership starting date255
+
+member's id 5
+Member Name hashini
+members NiC number235649852
+members birth day 02.03.2001
+membership price5
+membership starting date12
+
+member's id 5
+Member Name hashini
+members NiC number235649852
+members birth day 02.03.2001
+membership price5
+membership starting date12
+
+member's id 56 
+Member Name hashini 
+members NiC number5 
+members birth day 5 
+membership price45 
+membership starting date2
+
